@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets / environment files
+.env
+.env.*
+
+# Large/raw datasets
+data/raw/
+*.csv
+
+# Temporary files
+*.tmp
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
