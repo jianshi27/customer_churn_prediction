@@ -72,7 +72,7 @@ Customer Risk Segmentation
 Revenue Exposure Analysis
      ↓
 Retention Prioritization
----
+```
 
 ## Data Cleaning
 
@@ -484,7 +484,7 @@ The saved model is:
 
 ```text
 models/churn_prediction_pipeline.pkl
-
+```
 The saved pipeline was successfully reloaded and tested.
 
 The reloaded pipeline produced predictions and churn probabilities that matched the original pipeline outputs.
@@ -509,7 +509,7 @@ The dashboard code is located at:
 
 ```text
 app/app.py
-
+```
 The current dashboard is a basic prototype and can be expanded with additional visualizations, customer-level explanations, and deployment functionality.
 
 ---
@@ -554,7 +554,7 @@ customer-churn-prediction/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
-
+```
 
 ## Limitations
 
